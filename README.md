@@ -12,3 +12,11 @@ The image can be rotated by any angle.It involves finding the centre of the Matr
 |<img src="https://github.com/Git-Saurabh5/Image-Processing/blob/master/Image_Rotation/rotate.png">| 
 |:---:|
 |Input Image|
+
+**Output**
+|<img src="https://github.com/Git-Saurabh5/Image-Processing/blob/master/Image_Rotation/rotated_image.png">|<img width="640" height="450" src="https://github.com/Git-Saurabh5/Image-Processing/blob/master/Image_Rotation/rotated_image_using_shear.png">|
+|:---:|:---:|
+|Rotation Matrix|Shearing Rotation Matrix|
+
+
+
