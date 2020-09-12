@@ -19,5 +19,24 @@ The image can be rotated by any angle.It involves finding the centre of the Matr
 |:---:|:---:|
 |Rotation Matrix|Shearing Rotation Matrix|
 
+### 2. Applying Kernels
+
+Convolution is a simple mathematical operation which is fundamental to many common image processing operators. Convolution provides a way of multiplying together two arrays of numbers, generally of different sizes, but of the same dimensionality, to produce a third array of numbers of the same dimensionality.Kernels form the Second Matrix which provides effects to the Image.
+![figure3](https://user-images.githubusercontent.com/35737777/68632479-95c61f80-04e6-11ea-80b2-2e86a4fcc258.jpg)
+
+* Applying 3X3, 5X5 filters to do the following task:
+  * Blurring 
+  * Sharpening
+
+|<img src="https://github.com/Git-Saurabh5/Image-Processing/blob/master/Kernels/test_blur.png">|
+|:---:|
+|Input Image|
+
+**Output**
+|<img src="https://github.com/Git-Saurabh5/Image-Processing/blob/master/Kernels/blurred_image.png">|<img src="https://github.com/Git-Saurabh5/Image-Processing/blob/master/Kernels/gaussian_image.png">|<img src="https://github.com/Git-Saurabh5/Image-Processing/blob/master/Kernels/sharpen_image.png">|
+|:---:|:---:|:---:|
+|Box Blur|Gaussian Blur|Sharpen|
+
+
 
 
